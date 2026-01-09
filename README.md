@@ -222,6 +222,7 @@ Location missing	Network or API blocked	Retry on stable Internet
 
 💬 Author
 👨‍💻 Kritika Bunkar
+👨‍💻 Namrata Kushwaha
 📍 Satna, India
 🌐 Inspired by next-gen road safety innovation
 
